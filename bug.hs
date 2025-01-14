@@ -1,0 +1,1 @@
+This Haskell code attempts to perform I/O operations within a pure function, which is not allowed.  The `getLine` function is a side-effecting operation that requires the `IO` monad.
